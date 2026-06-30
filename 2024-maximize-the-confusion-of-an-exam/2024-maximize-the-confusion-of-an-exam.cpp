@@ -1,20 +1,19 @@
 class Solution {
 public:
-    int maxConsecutiveAnswers(string answerKey, int k) {
-       
-        vector<int> freq(26, 0);
-
+    int solve(string &s, int k, char ch) {
         int left = 0;
-        int maxFreq = 0;
+        int count = 0;
         int ans = 0;
 
-        for (int right = 0; right < answerKey.size(); right++) {
-            freq[answerKey[right] - 'A']++;
+        for (int right = 0; right < s.size(); right++) {
 
-            maxFreq = max(maxFreq, freq[answerKey[right] - 'A']);
+            if (s[right] != ch)
+                count++;
 
-            while ((right - left + 1) - maxFreq > k) {
-                freq[answerKey[left] - 'A']--;
+            while (count > k) {
+                if (s[left] != ch)
+                    count--;
+
                 left++;
             }
 
@@ -23,5 +22,11 @@ public:
 
         return ans;
     }
+
+    int maxConsecutiveAnswers(string answerKey, int k) {
+        return max(
+            solve(answerKey, k, 'T'),
+            solve(answerKey, k, 'F')
+        );
+    }
 };
-    
