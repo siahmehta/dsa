@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/siahmehta/dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/siahmehta/dsa/tree/master/0057-insert-interval) |
 | [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/siahmehta/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0904-fruit-into-baskets](https://github.com/siahmehta/dsa/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/siahmehta/dsa/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/siahmehta/dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -80,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/siahmehta/dsa/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/siahmehta/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1288-remove-covered-intervals](https://github.com/siahmehta/dsa/tree/master/1288-remove-covered-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/siahmehta/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sweep Line
 |  |
 | ------- |
