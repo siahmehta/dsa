@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/siahmehta/dsa/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/siahmehta/dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/siahmehta/dsa/tree/master/0057-insert-interval) |
+| [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0904-fruit-into-baskets](https://github.com/siahmehta/dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/siahmehta/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/siahmehta/dsa/tree/master/1288-remove-covered-intervals) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/siahmehta/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
@@ -75,5 +77,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/siahmehta/dsa/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
 | [1288-remove-covered-intervals](https://github.com/siahmehta/dsa/tree/master/1288-remove-covered-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
