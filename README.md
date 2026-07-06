@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/siahmehta/dsa/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/siahmehta/dsa/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/siahmehta/dsa/tree/master/0057-insert-interval) |
 | [0904-fruit-into-baskets](https://github.com/siahmehta/dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/siahmehta/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/siahmehta/dsa/tree/master/1288-remove-covered-intervals) |
