@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/siahmehta/dsa/tree/master/0001-two-sum) |
 | [0904-fruit-into-baskets](https://github.com/siahmehta/dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/siahmehta/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1288-remove-covered-intervals](https://github.com/siahmehta/dsa/tree/master/1288-remove-covered-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/siahmehta/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/siahmehta/dsa/tree/master/0009-palindrome-number) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/siahmehta/dsa/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
