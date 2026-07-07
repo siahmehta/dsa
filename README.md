@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/siahmehta/dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/siahmehta/dsa/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/siahmehta/dsa/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/siahmehta/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/siahmehta/dsa/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/siahmehta/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/siahmehta/dsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/siahmehta/dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/siahmehta/dsa/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/siahmehta/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/siahmehta/dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/siahmehta/dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/siahmehta/dsa/tree/master/0344-reverse-string) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/siahmehta/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/siahmehta/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/siahmehta/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
