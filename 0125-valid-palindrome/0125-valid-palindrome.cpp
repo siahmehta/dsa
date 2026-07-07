@@ -18,6 +18,6 @@ public:
             left++;
             right--;
         }
-        return true;
+        return true; 
     }
 };
