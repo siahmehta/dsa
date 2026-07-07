@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siahmehta/dsa/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/siahmehta/dsa/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siahmehta/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siahmehta/dsa/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/siahmehta/dsa/tree/master/0056-merge-intervals) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siahmehta/dsa/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siahmehta/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siahmehta/dsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/siahmehta/dsa/tree/master/0088-merge-sorted-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siahmehta/dsa/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/siahmehta/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sweep Line
