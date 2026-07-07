@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/siahmehta/dsa/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/siahmehta/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0881-boats-to-save-people](https://github.com/siahmehta/dsa/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/siahmehta/dsa/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/siahmehta/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/siahmehta/dsa/tree/master/0986-interval-list-intersections) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/siahmehta/dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/siahmehta/dsa/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/siahmehta/dsa/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/siahmehta/dsa/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/siahmehta/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/siahmehta/dsa/tree/master/0986-interval-list-intersections) |
 ## Binary Search
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/siahmehta/dsa/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/siahmehta/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0881-boats-to-save-people](https://github.com/siahmehta/dsa/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/siahmehta/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/siahmehta/dsa/tree/master/1288-remove-covered-intervals) |
 ## Greedy
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/siahmehta/dsa/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/siahmehta/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0881-boats-to-save-people](https://github.com/siahmehta/dsa/tree/master/0881-boats-to-save-people) |
 ## Sweep Line
 |  |
 | ------- |
