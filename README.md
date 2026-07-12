@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/siahmehta/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/siahmehta/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/siahmehta/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3693-climbing-stairs-ii](https://github.com/siahmehta/dsa/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/siahmehta/dsa/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/siahmehta/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3693-climbing-stairs-ii](https://github.com/siahmehta/dsa/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
