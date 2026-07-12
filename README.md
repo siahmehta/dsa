@@ -104,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siahmehta/dsa/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/siahmehta/dsa/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/siahmehta/dsa/tree/master/0435-non-overlapping-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/siahmehta/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/siahmehta/dsa/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/siahmehta/dsa/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/siahmehta/dsa/tree/master/0202-happy-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siahmehta/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/siahmehta/dsa/tree/master/0237-delete-node-in-a-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/siahmehta/dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
